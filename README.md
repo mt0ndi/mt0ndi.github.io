@@ -1,4 +1,6 @@
 ## MakeoverMonday Week 47 - Social Media Use by Country
+![Tableau Dashboard](https://github.com/mt0ndi/mt0ndi.github.io/blob/main/MakeoverMonday%2047%20Dashboard.png)
+
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/madeline.tondi/viz/MakeoverMonday_1_17328225013830/Dashboard)
 
 ## Insights into 'House of Leaves' with Tableau
